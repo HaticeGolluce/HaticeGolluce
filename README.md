@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hatice İkbal Göllüce</h1>
-<h3 align="center">A passionate student at Istanbul University Cerrahpasa</h3>
+[![MasterHead](https://www.freepik.com/premium-photo/modern-technology-background-design-concept-modern-futuristic-technology-background-blue-hi-tech-background_14692234.htm#from_view=detail_alsolike)
+<h1 align="center">Hi 👋, I'm Hatice İkbal Göllüce🦋</h1>
+<h3 align="center">A passionate Data Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
